@@ -1,1 +1,1 @@
-web: gunicorn chapatishakes.wsg
+web: gunicorn chapatishakes.wsgi
